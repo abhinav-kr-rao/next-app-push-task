@@ -1,0 +1,26 @@
+{
+    "name": "DigiLabs App PWA",
+    "short_name": "Digi App",
+    "description": "DigiLabs Progressive Web Application",
+    "icons": [
+      {
+        "src": "/web-app-manifest-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/web-app-manifest-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "prefer_related_applications": false
+}
